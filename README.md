@@ -1,2 +1,0 @@
-# RP
-Chat RP server
